@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     cout << "Ohayo Sekai!";
-    cout << "Indonesia Sangat Hebat";
+    cout << "Indonesia Menjadi Hebat";
 
     return 0;
 }
