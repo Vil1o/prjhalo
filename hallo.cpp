@@ -3,7 +3,7 @@ using namespace std;
 
 void Names ()
 {
-    string Nama [5];
+    string Nama [5] = {"Liu","Cakra","Suisei","Gura","Archer"};
 }
 
 int main() {
