@@ -1,9 +1,16 @@
 #include <iostream>
 using namespace std;
 
+void Names ()
+{
+    string Nama [5];
+}
+
 int main() {
-    cout << "Ohayo Sekai!";
-    cout << "Indonesia Yok Hebat";
+    cout << "Hello World!\n";
+    cout << "Indonesia Yok Hebat\n";
+
+    Names();
 
     return 0;
 }
